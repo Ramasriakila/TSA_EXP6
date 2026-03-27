@@ -9,6 +9,9 @@
 
 To implement the Holt Winters Method Model using Python.
 
+### SOFTWARE REQUIRED:
+Google COlab
+
 
 ### ALGORITHM:
 1. You import the necessary libraries
