@@ -85,7 +85,7 @@ monthly_data.plot(legend=True, label='Original Data')
 forecast_predictions.plot(legend=True, label='Forecasted Data', color='red')
 plt.title('Original and Forecasted Gold Prices (Holt-Winters Additive)')
 plt.show()
-
+```
 
 ### OUTPUT:
 
